@@ -2,22 +2,8 @@
 
 <table align='left'>
 <tr>
-<td><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGC3QKIepLyjCOgiPl2VS4QTCoUJfrce38nBg0SEAwJw&usqp=CAU&ec=45673586' width='700' /></td>
-</tr>
-</table>
-
-
-
-### Libraries and Tools used in this project
-
-For this activity, we will need a library specialized in deep learning called Keras. We will also use sklearn, a very complete library for machine learning in Python.
-<table align='left'>
-<tr>
-<td><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSY-TODDr1a7bkYp-J05nq8V3AXl4nb95tKJf6uBqGhhw&usqp=CAU&ec=45673586' width='300' /></td>
-    
-<td><img src='https://cdn-images-1.medium.com/max/1200/1*00pL0zLnfI7y8d5G1aQrHA.jpeg' width='200' /></td>
-    
-<td><img src='https://matplotlib.org/_static/logo2.svg' width='200' /></td>
+<td><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGC3QKIepLyjCOgiPl2VS4QTCoUJfrce38nBg0SEAwJw&usqp=CAU&ec=45673586' width='500' /></td>
+<td><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSY-TODDr1a7bkYp-J05nq8V3AXl4nb95tKJf6uBqGhhw&usqp=CAU&ec=45673586' width='500' /></td>
 </tr>
 </table>
 
