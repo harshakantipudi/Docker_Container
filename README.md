@@ -2,7 +2,7 @@
 
 <table align='left'>
 <tr>
-<td><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGC3QKIepLyjCOgiPl2VS4QTCoUJfrce38nBg0SEAwJw&usqp=CAU&ec=45673586' width='500' /></td>
+<td><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGC3QKIepLyjCOgiPl2VS4QTCoUJfrce38nBg0SEAwJw&usqp=CAU&ec=45673586' width='100' /></td>
 </tr>
 </table>
 
@@ -25,31 +25,32 @@ For this activity, we will need a library specialized in deep learning called Ke
 </table>
 
 
-1) Write Docker File
-2) Building the Docker Image
-3) Running Money Auteticator APP which was created 
+## Tasks
+
+### 1) Write Docker File
+### 2) Building the Docker Image
+### 3) Running Money Auteticator APP which was created 
+
 
 1.a Building the Docker Image
-  docker build -t money_api . (Space dot)
+
+```sh
+docker build -t money_api . (Space dot)
+```
+
 
 See the Dockers
 
-Docker ps
-
+```sh
+docker ps
+```
 running the dockers ( docker by defalut will run in our docker image)
+
+```sh
 docker run -p 8000:8000 money_api
+```
 
-
-
-
-
-
-
-
-
-
-
-
+### Important Docker Commands
 
 1. how to search a docker image in hub.docker.com
 ```sh
